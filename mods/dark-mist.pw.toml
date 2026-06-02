@@ -1,0 +1,13 @@
+name = "Dark Mist"
+filename = "dark_mist-0.1.9-neoforge-1.21.1-ByTournamenU.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "6fedc719489626054562130958ad21be3a341da7"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6464802
+project-id = 1195348

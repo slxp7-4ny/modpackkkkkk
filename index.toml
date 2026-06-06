@@ -286,7 +286,7 @@ metafile = true
 
 [[files]]
 file = "mods/creativecore.pw.toml"
-hash = "3966f08ef3db053c3024e44975ed41f29a074a7d639e0b02f514fc91ac58b655"
+hash = "51851da1eec44c74801f9b00525c119aa136be6b4c4ba2b5bd8b6d0dcf4791df"
 metafile = true
 
 [[files]]
@@ -431,7 +431,7 @@ metafile = true
 
 [[files]]
 file = "mods/forgotten-frequency.pw.toml"
-hash = "2cba3e5e5e6a7daaa80eae68f71472020469937f0842dbe43f90bf395e7c7af5"
+hash = "071cdf9b8ac719544293f4ff4b8b392eed8bce64c0112dc02ee2957a43273c85"
 metafile = true
 
 [[files]]
@@ -545,7 +545,7 @@ metafile = true
 
 [[files]]
 file = "mods/irons-spells-n-spellbooks.pw.toml"
-hash = "678fa6583298962cb79fac4cde7a631019429f9e0298d3a3af638b632c883d76"
+hash = "068d82b7c5bdd0af392663256728d7ecb85047887639eb788373ee8fc9c72813"
 metafile = true
 
 [[files]]
@@ -635,7 +635,7 @@ metafile = true
 
 [[files]]
 file = "mods/mns-moogs-nether-structures.pw.toml"
-hash = "e5ca7ac4e7ce3931f6e405a927a1f6fc195b9acbb508539008d094a9c10d268f"
+hash = "90f0033b66d093452767719c725914a8a2b148e99d0b10547fa15226382364e8"
 metafile = true
 
 [[files]]
@@ -660,7 +660,7 @@ metafile = true
 
 [[files]]
 file = "mods/moogs-structure-lib.pw.toml"
-hash = "8e6bbd76144784257cfbb3a37e644772821b72592b89ac1543e1544493f2d840"
+hash = "dca980571971a41d3db163d28c76e72d2a6452bd0f02c736ea3da90bf80e4a11"
 metafile = true
 
 [[files]]
@@ -720,7 +720,7 @@ metafile = true
 
 [[files]]
 file = "mods/occultism.pw.toml"
-hash = "ac78a47fd6a0547801dd8d1ef5805394b08d06303a64f4a261f8247f314d3ab0"
+hash = "e712893be0ac6dc045861bc6aecd0279c476eb5fb0f26f4100dcea36764f95e0"
 metafile = true
 
 [[files]]
@@ -890,7 +890,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "d584cf60583edecb4b8c6e8ee4b6146d160c532a7b9e968d21996b4d4b24a240"
+hash = "caeab96d11ff269c2d3b79e0ca31e7078c8e0b2ebda9f88fd26a007736162181"
 metafile = true
 
 [[files]]

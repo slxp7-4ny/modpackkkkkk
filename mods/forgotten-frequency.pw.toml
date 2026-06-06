@@ -1,13 +1,13 @@
 name = "Forgotten Frequency"
-filename = "forgottenfrequency-1.0.1-mc1.21.1.jar"
+filename = "forgottenfrequency-1.0.2-mc1.21.1.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "1e494135e743ddafbbed7320bc168ed49318bc36"
+hash = "0ccdc76bce65b696b7a5a3dd47237114c716aa9e"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 8029849
+file-id = 8188100
 project-id = 1527914

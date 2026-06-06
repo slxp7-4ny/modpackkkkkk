@@ -340,6 +340,11 @@ hash = "541520814421d829976fbb2162e7a195b18e9d82ed3b3c8dc9c7fbc50b2cb491"
 metafile = true
 
 [[files]]
+file = "mods/easy-disenchanting.pw.toml"
+hash = "318c32e6252f6912193221f911b9dbe08741c0774dd34d79eee1c39dc5278753"
+metafile = true
+
+[[files]]
 file = "mods/easy-magic.pw.toml"
 hash = "efce6a511bf4a60c64fe082fd183c9cd693861fb79413ba540cb1053ff562191"
 metafile = true

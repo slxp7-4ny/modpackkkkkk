@@ -2265,6 +2265,11 @@ hash = "5a96006110f4cdd98460a994373153909a5f0bf6cb68c5ac3a64adbda86eb302"
 metafile = true
 
 [[files]]
+file = "mods/lambdynamiclights.pw.toml"
+hash = "177af2a4d5072f2e055062f70a5ea780d821785ceae82d5378df3ba7cbc95665"
+metafile = true
+
+[[files]]
 file = "mods/let-me-despawn.pw.toml"
 hash = "dd4dd28e505ef8a6dae0569c92b03732302094e952068db010924fe945a27170"
 metafile = true

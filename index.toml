@@ -1266,11 +1266,11 @@ hash = "4881d5eabe40bb9a0c72ce87c229f51d20b1540ae602da87f55c02cf904b15e7"
 
 [[files]]
 file = "config/irons_spellbooks-client.toml"
-hash = "3fa2598d7de323567c85ebf73380be870d051381615daecc386d6366b4d7b9d4"
+hash = "6beb668c942a607fd602e65ebec4281939eb0122c4fff02f01336bb47d257963"
 
 [[files]]
 file = "config/irons_spellbooks-server.toml"
-hash = "b8af7b5dc8e58774cd832abed3657f4c50d8c12cda3f00a7b72b88bb5edbba67"
+hash = "60433b671b895f0de388c1baa7aeb7c1dcd2dbd93622e0f3d7128b77daf8be11"
 
 [[files]]
 file = "config/irons_spellbooks_spell_config/global_config.json"
@@ -1354,7 +1354,7 @@ hash = "d0dcbc7c9c28a398ad2b81c1f6779f34beffbf45560c8c02c063077ab32ded45"
 
 [[files]]
 file = "config/knocker.toml"
-hash = "13281641ee828d9bbd621bc667d5505e01fd273663068ab4e5214de2c60a7378"
+hash = "481003d79c84429ba02cc4f69b846d996999e8253ed0222d76e280d675d5e872"
 
 [[files]]
 file = "config/konkrete/locals/de_de.local"
@@ -1686,7 +1686,7 @@ hash = "cff6a9a0d415b19b9852844c0ad5bb2b1cfdb9fce12e729e7228a6521fc95927"
 
 [[files]]
 file = "config/terralith.json"
-hash = "eadc7fad5ce55fbcec25df521820d36c222d5b12f17006ed9fea34ebeb6fd01d"
+hash = "7dced0f1a0a6eb20c4fc5a5d25d6bd1742f8cb3eeae32474793a0935622a2a1f"
 
 [[files]]
 file = "config/therollinggiant.toml"

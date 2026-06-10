@@ -2638,9 +2638,8 @@ hash = "f55cb6a9b2129b9921c58489e660e451aea766c4cd3b8af75c58a7caae272d94"
 metafile = true
 
 [[files]]
-file = "mods/servercore.pw.toml"
-hash = "75356c9ab561648210e7b59326ed1ee83c674d6ffece939ba7045c33c6c2064e"
-metafile = true
+file = "mods/servercore-neoforge-1.5.17+1.21.1.jar"
+hash = "5d3b3ac3fc61ef304af929cec2637481eed211fc694d6074258e02abbcfe3467"
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"

@@ -1670,7 +1670,7 @@ hash = "b627c4456e6fa0bc4b5f85e2f1cd949faedae3cb9afdaf2a5f52e6f3b6ae1f01"
 
 [[files]]
 file = "config/sodium-options.json"
-hash = "445a55bccce87dd8467f3265d1572827e8778e873e3bb70290adf0bb8a811e96"
+hash = "4e64ca54fd14c86297e5cf90646e422c2b87cd2476dec1e3629a379bce3d50e5"
 
 [[files]]
 file = "config/sounds/chat.json"
@@ -2842,11 +2842,6 @@ metafile = true
 [[files]]
 file = "mods/watermedia.pw.toml"
 hash = "0528731743be7df4ba5a8952264861920f90475ed333f914fddea75473cd6012"
-metafile = true
-
-[[files]]
-file = "mods/watervision.pw.toml"
-hash = "022c8bb3430adc4826aa93ec69a378fc6b200aa9a6b6cde1ca499aeaed441e5d"
 metafile = true
 
 [[files]]

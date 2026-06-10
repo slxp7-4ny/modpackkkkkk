@@ -457,6 +457,42 @@ file = "config/ars_nouveau/wololo.toml"
 hash = "d97f22e6a2dda9ad91f1dab25b2a700ed87a4d91a9420e576e9516c8476603f4"
 
 [[files]]
+file = "config/attributefix/ars_nouveau/ars_nouveau.perk.drygmy.json"
+hash = "6b9b3d0281e3d07f12580d39983e2ac2eac90f30c739d743b84d55024c3651ed"
+
+[[files]]
+file = "config/attributefix/ars_nouveau/ars_nouveau.perk.feather.json"
+hash = "17ef1233e3020b53a3835793bc771c00114af5b167f57cb03506098dbc49e535"
+
+[[files]]
+file = "config/attributefix/ars_nouveau/ars_nouveau.perk.mana_regen.json"
+hash = "487f467b01c27f2a09baed20062a8ee186104a3f36132eb53697dab2cda1bddf"
+
+[[files]]
+file = "config/attributefix/ars_nouveau/ars_nouveau.perk.max_mana.json"
+hash = "fead7637d9e24d53ba947a7260fdbb1b8d7da59e0d46a480e2a5fb9bf2d4aeb1"
+
+[[files]]
+file = "config/attributefix/ars_nouveau/ars_nouveau.perk.saturation.json"
+hash = "fead7637d9e24d53ba947a7260fdbb1b8d7da59e0d46a480e2a5fb9bf2d4aeb1"
+
+[[files]]
+file = "config/attributefix/ars_nouveau/ars_nouveau.perk.spell_damage.json"
+hash = "fead7637d9e24d53ba947a7260fdbb1b8d7da59e0d46a480e2a5fb9bf2d4aeb1"
+
+[[files]]
+file = "config/attributefix/ars_nouveau/ars_nouveau.perk.warding.json"
+hash = "6b9b3d0281e3d07f12580d39983e2ac2eac90f30c739d743b84d55024c3651ed"
+
+[[files]]
+file = "config/attributefix/ars_nouveau/ars_nouveau.perk.weight.json"
+hash = "6217856e9bb2355a468bbe03fe24bc97bae91f8deb54e9df42f8a4021cde99e6"
+
+[[files]]
+file = "config/attributefix/ars_nouveau/ars_nouveau.perk.wixie.json"
+hash = "6b9b3d0281e3d07f12580d39983e2ac2eac90f30c739d743b84d55024c3651ed"
+
+[[files]]
 file = "config/attributefix/iceandfire/generic.dragon_forge_speed.json"
 hash = "6b9b3d0281e3d07f12580d39983e2ac2eac90f30c739d743b84d55024c3651ed"
 
@@ -921,6 +957,14 @@ file = "config/crepperoverhaul-client.jsonc"
 hash = "8ebd8ce17fd98dc18dde0d3271b9237fbc98d9664647940308c9a4d7804dc200"
 
 [[files]]
+file = "config/cristellib/ars_nouveau/structure_placement_config.json5"
+hash = "7976f646e8f761bad1f418d832095c20e7ed8af19600a6f65c201ff875a0af92"
+
+[[files]]
+file = "config/cristellib/ars_nouveau/structure_toggle_config.json5"
+hash = "34894d2167232fe987c9baa4dc86aa6521d7f5966de8b89c47b6f7c339c4469e"
+
+[[files]]
 file = "config/cristellib/auto_config_settings.json5"
 hash = "799173b66094a241753f41af672ddf22921ca206cb88f1966d31960c89c3f99a"
 
@@ -1087,6 +1131,14 @@ hash = "5bf7dd3121a172ab0209680d384a08008d5a2469f59e40178c8db110c5ce52f0"
 [[files]]
 file = "config/cristellib/supplementaries/structure_toggle_config.json5"
 hash = "1715fab1db080ca0bd264dce0cb2f8de8218d6e2989d085b0a3cb72b0f8c6225"
+
+[[files]]
+file = "config/cristellib/terralith/structure_placement_config.json5"
+hash = "777e236cc299321f8e51f96238bd01be855699cf72aa7520b30d32ad8edb7367"
+
+[[files]]
+file = "config/cristellib/terralith/structure_toggle_config.json5"
+hash = "b2b1510673394f1558f80f11c479a7619414a91691139a5cc43d5e3b3d233da1"
 
 [[files]]
 file = "config/cubes_without_borders.json"
@@ -1665,8 +1717,16 @@ file = "config/super_resolution/libraries/libSuperResolutionXeSS+win64+release.d
 hash = "5486bcfee67d1c7ffab120cd29779c27f01376b8e24fb6f39c1360f08594c730"
 
 [[files]]
+file = "config/super_resolution/shader_caches/copy-texture.0to0+1to1+2to2.4be3806baf506461c6928c608ce2e739.compute.ogl.spv"
+hash = "af204699eed75773d6eb60100ff38e5e332bb3815dcdd90c851beb30d7296c05"
+
+[[files]]
 file = "config/super_resolution/shader_caches/copy-texture.0to0+1to1+2to2.53c47324865af1ec8e25a681e90e6a2d.compute.ogl.spv"
 hash = "af204699eed75773d6eb60100ff38e5e332bb3815dcdd90c851beb30d7296c05"
+
+[[files]]
+file = "config/super_resolution/shader_caches/copy-texture.0to0.070bc83d1992e1189eff2734bf26b37f.compute.ogl.spv"
+hash = "592b9f0e81b2c5e3e51a95f55bec0546cc453d0c2825931eae44b77206250944"
 
 [[files]]
 file = "config/super_resolution/shader_caches/copy-texture.0to0.baabe23686ac9959a2bbc6b9857068c8.compute.ogl.spv"

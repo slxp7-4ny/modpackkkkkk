@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "ATUALIZAR.bat"
+hash = "c53ac788d784d5c146839c5b1bc8c5ef95de95cc1b177d7cd3d9f6f8634311c6"
+
+[[files]]
 file = "config/CoroUtil/General.toml"
 hash = "6d46bdc090d4bb9bdfb660be4ca94075dc08e09d5fed84108eba92a422a23c49"
 
@@ -1698,23 +1702,23 @@ hash = "54826c1ce55156e6a3d19a22949d733668806c7ed4a77218cc1d26bb6c5fa7bd"
 
 [[files]]
 file = "config/super_resolution/config.toml"
-hash = "613dd0f972e8cf4b23bf06768c96947a7352088fc0bc294331170200acc5a3d5"
+hash = "3b2971ca72b4cf599e176bccd96d6a06a4e50d88dc635c2f31fe9b59c5b27e6e"
 
 [[files]]
 file = "config/super_resolution/libraries/libSuperResolution+win64+release.dll"
-hash = "2e84ebb83932ecc4be587301e0f3e520116f379611011457e2c54131d34c8286"
+hash = "e5391db546f6a48bf10933a20f85296228face95ca87971954ede940288ee9cc"
 
 [[files]]
 file = "config/super_resolution/libraries/libSuperResolutionDLSS+win64+release.dll"
-hash = "f1c662a30a5b2ab11ba0ec784a103284e99c8605529df98409d7cb2918a6e2ee"
+hash = "519d13a95b9f2121d6bd7968298f9e368ef0e89935643888b1801aa760bc783b"
 
 [[files]]
 file = "config/super_resolution/libraries/libSuperResolutionFSR+win64+release.dll"
-hash = "ef200444f3e44490991e48035e71091c94190967544cf61bc3ed33ac552d0023"
+hash = "b56f2cca863906a421f1ca0c43e371f8e75b91154099f0eb858f658f96e51d44"
 
 [[files]]
 file = "config/super_resolution/libraries/libSuperResolutionXeSS+win64+release.dll"
-hash = "5486bcfee67d1c7ffab120cd29779c27f01376b8e24fb6f39c1360f08594c730"
+hash = "ab4cf8c0cb20eb2c99816984eb4fcfab793738b3178fb3e3ff850e4ae0316e04"
 
 [[files]]
 file = "config/super_resolution/shader_caches/copy-texture.0to0+1to1+2to2.4be3806baf506461c6928c608ce2e739.compute.ogl.spv"

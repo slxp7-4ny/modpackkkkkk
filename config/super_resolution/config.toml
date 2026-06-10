@@ -24,7 +24,7 @@ sharpness = 0.55
 #Force disable shader pack compatibility mode.
 force_disable_shader_compat = false
 #Enable super-resolution upscaling
-enable_upscale = true
+enable_upscale = false
 #Pause game when GUI is open
 pause_game_on_gui = false
 #The precision of the internal texture format affects video memory consumption: higher precision results in greater consumption, while lower precision leads to smaller consumption. Note: Excessively low precision may cause noticeable color banding in the image.

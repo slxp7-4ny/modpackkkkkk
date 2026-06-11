@@ -1,0 +1,5 @@
+["The Rolling Giant configuration"]
+	#How many ticks it takes for entity to spawn?
+	eventrng = 8000.0
+	#Chance of phase changing after every encounter with the entity? [do not set it >0.9 otherwise it could cause bugs or crash the game]]
+	chanceofphasechangin = 0.2

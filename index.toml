@@ -22,11 +22,11 @@ hash = "0d77a734fd47265db649974f10b6fbee9f87592d3063ab54489b64fe86c01a39"
 
 [[files]]
 file = "config/defaultoptions/keybindings.txt"
-hash = "175f97b31cfcd19516be22f22d0b7f4f575a0bd626921d8d70ea549774206965"
+hash = "45b490554474c63b2bfed1377aa671a21047aa86d672f70448a176eba694565c"
 
 [[files]]
 file = "config/defaultoptions/options.txt"
-hash = "f85ded9d0c0af3d2e39904c30c5e736631def485291cd54f773f0c33f501f8d7"
+hash = "3cfc1747a5b5e043cc075f0e8796fd1e418ad9b3f0e5b8a19836b619c6dcb0a2"
 
 [[files]]
 file = "config/emotecraft.json"
@@ -62,7 +62,7 @@ hash = "76ece0728cb7f2c58c0fe1e306ae645a04dfc8dc6e66bd8bcc9e34fb1609a5f0"
 
 [[files]]
 file = "config/sodium-options.json"
-hash = "4e64ca54fd14c86297e5cf90646e422c2b87cd2476dec1e3629a379bce3d50e5"
+hash = "be40d116c4d2eff2e12e2ebd811a6c365955acbfed39361cef22cbd23e0dd74f"
 
 [[files]]
 file = "config/super_resolution/config.toml"

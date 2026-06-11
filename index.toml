@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "ATUALIZAR.bat"
-hash = "c53ac788d784d5c146839c5b1bc8c5ef95de95cc1b177d7cd3d9f6f8634311c6"
-
-[[files]]
 file = "config/CoroUtil/General.toml"
 hash = "6d46bdc090d4bb9bdfb660be4ca94075dc08e09d5fed84108eba92a422a23c49"
 
@@ -2935,3 +2931,7 @@ metafile = true
 file = "mods/zeta.pw.toml"
 hash = "d1baffd370868590fcb2785146c278df5781d20994022749c53c0f9b2bffc7fc"
 metafile = true
+
+[[files]]
+file = "update.bat"
+hash = "6088533d1a0836a4f92299dc6128b07d6ea566c8d5f98c49d15a3dfb500885a8"

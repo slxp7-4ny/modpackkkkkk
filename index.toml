@@ -45,6 +45,10 @@ file = "config/knocker.toml"
 hash = "481003d79c84429ba02cc4f69b846d996999e8253ed0222d76e280d675d5e872"
 
 [[files]]
+file = "config/lmft.json"
+hash = "7564aee7b7bf3477b71532d3fda3223c5455182d6b516850887184c4412e8c3d"
+
+[[files]]
 file = "config/modernfix-mixins.properties"
 hash = "2c83ff3f12215836f0fa1f39d5c1c3f30880340d62f1711fcaa622036c07d826"
 
@@ -669,6 +673,11 @@ metafile = true
 [[files]]
 file = "mods/lithostitched.pw.toml"
 hash = "ec9d06ac76e4017bbfbae4ecd54702071b796b502ac8eabb682705ef71c8d671"
+metafile = true
+
+[[files]]
+file = "mods/lmft.pw.toml"
+hash = "faed2d9ae09b810b385180a3c20e598ff4d43da75f324b0320649ea4eeb78e29"
 metafile = true
 
 [[files]]

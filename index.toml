@@ -1,6 +1,90 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/NoChatReports/NCR-Encryption.json"
+hash = "fae0ac7b88a2b0bd89c1da26414a3c25797610b2c6cc768733664c0b65869666"
+
+[[files]]
+file = "config/appleskin-client.toml"
+hash = "aa9df741e49464f98027b978afcbcca97d729ac393cbf2d9fa5fb2d8cc5565fa"
+
+[[files]]
+file = "config/ars_nouveau-client.toml"
+hash = "c3a05685ae4d182b6e69639d04d2f03d824e869bffc6de058782743b5f2a243f"
+
+[[files]]
+file = "config/betterf3.toml"
+hash = "77878d5d34b313af89864263526640a84a6e5cd4798d93e8dd0b35f5ea1dadb7"
+
+[[files]]
+file = "config/defaultoptions-common.toml"
+hash = "0d77a734fd47265db649974f10b6fbee9f87592d3063ab54489b64fe86c01a39"
+
+[[files]]
+file = "config/defaultoptions/keybindings.txt"
+hash = "175f97b31cfcd19516be22f22d0b7f4f575a0bd626921d8d70ea549774206965"
+
+[[files]]
+file = "config/defaultoptions/options.txt"
+hash = "f85ded9d0c0af3d2e39904c30c5e736631def485291cd54f773f0c33f501f8d7"
+
+[[files]]
+file = "config/emotecraft.json"
+hash = "c43c98d480b79745ac90fa42231fe13710659f0811dac43588c63b175168f3de"
+
+[[files]]
+file = "config/emotecraft_emote_map.json"
+hash = "0ce5a209870e0673c14f68d4581de2cefc67a3c37aa7071c943b711a69835775"
+
+[[files]]
+file = "config/iris.properties"
+hash = "a1a02642ee5f3d43ee245bac537996d19130d96c6c9e45bac2b2a783e8b9321b"
+
+[[files]]
+file = "config/knocker.toml"
+hash = "481003d79c84429ba02cc4f69b846d996999e8253ed0222d76e280d675d5e872"
+
+[[files]]
+file = "config/obsessed_configurations.toml"
+hash = "ea15c6ea115bf2eae7536de510ef8be3c96054ce64378f39a8fd438a1ba56732"
+
+[[files]]
+file = "config/quark-common.toml"
+hash = "fdff6cc89d1b1609ce7a950ff004dc339058a76f69cffb3abaf01406eb1f8b70"
+
+[[files]]
+file = "config/sanity_renewed/default.toml"
+hash = "e1542d8d0737d957b964d75416a3b3377d01adb69912e92ce341d77a9a0e08ee"
+
+[[files]]
+file = "config/securitycraft-client.toml"
+hash = "76ece0728cb7f2c58c0fe1e306ae645a04dfc8dc6e66bd8bcc9e34fb1609a5f0"
+
+[[files]]
+file = "config/sodium-options.json"
+hash = "4e64ca54fd14c86297e5cf90646e422c2b87cd2476dec1e3629a379bce3d50e5"
+
+[[files]]
+file = "config/super_resolution/config.toml"
+hash = "3b2971ca72b4cf599e176bccd96d6a06a4e50d88dc635c2f31fe9b59c5b27e6e"
+
+[[files]]
+file = "config/terralith.json"
+hash = "7dced0f1a0a6eb20c4fc5a5d25d6bd1742f8cb3eeae32474793a0935622a2a1f"
+
+[[files]]
+file = "config/voicechat/voicechat-client.properties"
+hash = "9141666ac0a27f75c2c5950609da477057ca3355b049196c3bebe9893efbd140"
+
+[[files]]
+file = "config/voicechat/voicechat-server.properties"
+hash = "801ef17118d376274ac54982f16e106f4ee89ee912df479b36fd199ca4678966"
+
+[[files]]
+file = "config/xaero/minimap/profiles/default.cfg"
+hash = "43d7b01a8710687554de4935be83bb6f412a0e1b74638c945d5f2eb67dfb20c5"
+
+[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "82becc6910845ae1a68884e6f7a3dcdc861d79a087ae81b1d7e120e82884372d"
 metafile = true
@@ -87,6 +171,11 @@ metafile = true
 [[files]]
 file = "mods/better-third-person.pw.toml"
 hash = "d58e02fd901943506422b03463b6116c1ebcb27204e369f4e9551218a5ba4c1a"
+metafile = true
+
+[[files]]
+file = "mods/betterf3.pw.toml"
+hash = "c9aca350959a8936b054c7164fb55d789ab1e0d38cff2af48b78f70af2bc0c6d"
 metafile = true
 
 [[files]]
@@ -551,6 +640,11 @@ metafile = true
 [[files]]
 file = "mods/krypton-fnp.pw.toml"
 hash = "5a96006110f4cdd98460a994373153909a5f0bf6cb68c5ac3a64adbda86eb302"
+metafile = true
+
+[[files]]
+file = "mods/ksyxis.pw.toml"
+hash = "24108936876681291323c2ba37f0a8da6ae4a779411e360d480f21ab145c396b"
 metafile = true
 
 [[files]]

@@ -437,20 +437,20 @@ file = "config/ars_nouveau/rewind.toml"
 hash = "927983e00266b0b3af2d78c1d5c10e791ed052e3cd8e525cc1bdb773845e921e"
 
 [[files]]
-file = "config/ars_nouveau/search_index/_0.cfe"
-hash = "263b71eadacbe0b0a18010a77f83a88fbb3541f819e7769104b64f4173c65a1c"
+file = "config/ars_nouveau/search_index/_1.cfe"
+hash = "7fd7a1c0c5c67982b6f546cb77704c0bfe70af744cb347b174868565cbe25358"
 
 [[files]]
-file = "config/ars_nouveau/search_index/_0.cfs"
-hash = "d44b05978acfbb355a9d6474e569001354fc29581c8c1db8b062b2b04119c75c"
+file = "config/ars_nouveau/search_index/_1.cfs"
+hash = "dd575692784e6ff3ea4fdf8e63012721212b8c9b92155bf1bb15fdc0dedabacb"
 
 [[files]]
-file = "config/ars_nouveau/search_index/_0.si"
-hash = "560f95f5569d50624494ac8e518dc48c398f9c625f643078091cb1f3a7f4be9a"
+file = "config/ars_nouveau/search_index/_1.si"
+hash = "094a2f111267a0be13579cbb08b055e3924962c9831d2e46d4ce10593d5b1232"
 
 [[files]]
-file = "config/ars_nouveau/search_index/segments_1"
-hash = "42b07170b476a65b7c0f00d5c25fedd9126b8c44ba028544e824c1cbc129f264"
+file = "config/ars_nouveau/search_index/segments_2"
+hash = "9e8ffe6ce63f5ef92b2491d7f648fcf2ed36d0ce52b90c5d3cd5fc894d580fd6"
 
 [[files]]
 file = "config/ars_nouveau/search_index/write.lock"
@@ -838,7 +838,7 @@ hash = "428c8be557854161e82b21b5654d2865b9b0c53bba969f20398568f94d4ae030"
 
 [[files]]
 file = "config/c2me.toml"
-hash = "c257c04122db558aabd33dc05733b81e35055033526467624172e2314abfd5fc"
+hash = "840274e26f3f1e5efc206085ea2726282117351e937954646947269ec51785d9"
 
 [[files]]
 file = "config/camera-client.toml"
@@ -1254,7 +1254,7 @@ hash = "73b480eea2625358716feb2d77edfcc763014bbe8307e41d1d786b9629ab78c9"
 
 [[files]]
 file = "config/fabric/indigo-renderer.properties"
-hash = "01afc8217c8a19b814a285672e8cf74a842d1616de6f0c78c0e37076fc8a40af"
+hash = "57f2e2a6e8de9472138cc5e93c0dfd9a5c3ab61ff539a6f1dbc988350d7b5729"
 
 [[files]]
 file = "config/farmersdelight-client.toml"
@@ -1293,6 +1293,10 @@ file = "config/forgottenfrequency-server.toml"
 hash = "48388a7777536117b10aed9e2e369c7a741e586eed8e6669f70282a7ff42f9db"
 
 [[files]]
+file = "config/fzzy_config/keybinds.toml"
+hash = "26ac5810c9b5dc5c1968827357f0a58c58ac2b6f7b082630960228e16585062f"
+
+[[files]]
 file = "config/iceandfire/iaf-client.json"
 hash = "cb326e55a4a76c4741c031ce61b48f96b56dbc327792d457f4eb7894d6a0fad7"
 
@@ -1318,7 +1322,7 @@ hash = "4d3264b58c502afaeca3f44e8d2db0843c54b8ba957afd21a2d450fe10dafefb"
 
 [[files]]
 file = "config/iris.properties"
-hash = "4881d5eabe40bb9a0c72ce87c229f51d20b1540ae602da87f55c02cf904b15e7"
+hash = "a1a02642ee5f3d43ee245bac537996d19130d96c6c9e45bac2b2a783e8b9321b"
 
 [[files]]
 file = "config/irons_spellbooks-client.toml"
@@ -1350,11 +1354,11 @@ hash = "f9f68a1557cdfab8394d2f4b54a2756d96451dcdddea4f5e04cb912b516ffa05"
 
 [[files]]
 file = "config/jade/plugins.json"
-hash = "8ef6e7314c74df2851936c7125c42298ca9b5cb1b5c6305926cdc51971f13d2d"
+hash = "650f657b5a187f5eac87ca024f006cb83c3304a34080c2c99ac4fbfbaee50d38"
 
 [[files]]
 file = "config/jade/sort-order.json"
-hash = "a711dfc226af27a19f4ab616ebd98e2017d44f343d320af637cb4da1b44adc79"
+hash = "fb992b73f607caec07ed8c3f766ecfcc74295b35d17e9280b27fe648fc0a6a7a"
 
 [[files]]
 file = "config/jei-server.toml"
@@ -1366,7 +1370,7 @@ hash = "b4174dc6e985aa90be5002c14e94b956d8d586683c44b7b6710c44d08fb13648"
 
 [[files]]
 file = "config/jei/ingredient-list-mod-sort-order.ini"
-hash = "b80c7bf70e61da40c61b0a2a47fba2e2a4e503b3bbefc831e4c548da37a322e3"
+hash = "e8103e7d28700d8be149b2cc14e687829fa9b06ada96b447c8e730d243a4baf4"
 
 [[files]]
 file = "config/jei/ingredient-list-type-sort-order.ini"
@@ -1390,7 +1394,7 @@ hash = "6a91c09d1cabc1980d90ab102a03ec58c0551213ab16a459b599d768b334d054"
 
 [[files]]
 file = "config/jei/recipe-category-sort-order.ini"
-hash = "a171ef8873fc7efedb130d5d3a00104f8d85ba084b15eec2da3b44e00e086877"
+hash = "fe1f84a1d3414f7bbdda93d386d75005e118e67d0e8e20ce83fc1bad8f742d99"
 
 [[files]]
 file = "config/jeresources-common.toml"
@@ -1558,7 +1562,7 @@ hash = "d5f0ed8390618c769d9cb40a77df04779b7bbe636343b753c1ed6f92d325ae2b"
 
 [[files]]
 file = "config/packetfixer.properties"
-hash = "611f1af011227d4303d4b23c6d09247b113bc3de0ba77394a2d30758f08bfd39"
+hash = "be3a6dded11d19eb8e0875e32fa9fdbb224ef4e3756f3ced2c06b315a6b6b608"
 
 [[files]]
 file = "config/paraglider-common.toml"
@@ -1571,6 +1575,14 @@ hash = "5b5d04980f4459e32ff654d8da2a692533ec5dea34b5d412bd7bc82dac49dfb0"
 [[files]]
 file = "config/paraglider-server.toml"
 hash = "6e846f966bb462a682cfbd90804fa5067813db760a000d48214ae56e9a2557e4"
+
+[[files]]
+file = "config/particle_core_config.toml"
+hash = "9f21aae26ba31a4fd9bab85c4bb4e37d10ac408aff9feed91ad6acdf1e269634"
+
+[[files]]
+file = "config/particle_core_disabled_optimizations_v2.json"
+hash = "7189bb61c58cb1030b8ee486e66abf694d257192248b9b3ac4978df2b1366f7d"
 
 [[files]]
 file = "config/pingwheel.json"
@@ -2358,6 +2370,11 @@ hash = "6a2693aaab21ce7c32b958b81ee5e9cad0d014cdf68c067049b2fc652159d9d1"
 metafile = true
 
 [[files]]
+file = "mods/fzzy-config.pw.toml"
+hash = "f9c118b7a66238a7f9e052705e82402e57c7a5b753d62d679b94701ede479752"
+metafile = true
+
+[[files]]
 file = "mods/geckolib.pw.toml"
 hash = "68e15ffc71a84261e0dbbb317329788c21a7b9eb8060687dc8a51008cc3029fe"
 metafile = true
@@ -2699,11 +2716,6 @@ metafile = true
 [[files]]
 file = "mods/security-craft.pw.toml"
 hash = "3fff32e2c932ccb3ed59021caf9bce518582e6bec5c623373e3bd031c73639d2"
-metafile = true
-
-[[files]]
-file = "mods/selene.pw.toml"
-hash = "f55cb6a9b2129b9921c58489e660e451aea766c4cd3b8af75c58a7caae272d94"
 metafile = true
 
 [[files]]

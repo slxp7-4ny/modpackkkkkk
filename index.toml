@@ -2627,6 +2627,11 @@ hash = "abfaa1603e21bbcd94e8464c460ccb29a465f8b0ced64abdc661c79c03bab395"
 metafile = true
 
 [[files]]
+file = "mods/particle-core.pw.toml"
+hash = "7333c29c224d843384e26b2c7d9af1d31dada870d776fb1ad8f3d8c3040b313d"
+metafile = true
+
+[[files]]
 file = "mods/ping-wheel.pw.toml"
 hash = "fc58a3e283c0769d6861b3d07c0a919ba8a35dbca9fa040fbb574a1f5d7bad1a"
 metafile = true

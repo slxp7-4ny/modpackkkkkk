@@ -61,6 +61,15 @@ file = "config/obsessed_configurations.toml"
 hash = "ea15c6ea115bf2eae7536de510ef8be3c96054ce64378f39a8fd438a1ba56732"
 
 [[files]]
+file = "config/paxi/resourcepack_load_order.json"
+hash = "d0aaf3172f34275479f0669aa5b0a94b85788ae638f3062b948ec49d31c38293"
+
+[[files]]
+file = "config/paxi/resourcepacks/spemotes-translations.pw.toml"
+hash = "9dd2d2935269e4bb350c1d0535a37cfda88f89f33a783481a0f3e26f7d57b047"
+metafile = true
+
+[[files]]
 file = "config/quark-common.toml"
 hash = "fdff6cc89d1b1609ce7a950ff004dc339058a76f69cffb3abaf01406eb1f8b70"
 

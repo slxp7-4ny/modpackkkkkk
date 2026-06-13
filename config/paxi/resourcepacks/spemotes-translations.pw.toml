@@ -1,0 +1,13 @@
+name = "SPEmotes Translations"
+filename = "SPEMOTES_TRANSLATIONS_v1.1.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/x0pG5ft0/versions/sFWFS6CK/SPEMOTES_TRANSLATIONS_v1.1.zip"
+hash-format = "sha512"
+hash = "fec5d7d8b3c0ce680c6bfd0cd70be61f03cc3f2086edb5366ec7beb2693c5e1e163ae9a2832b35ed49da5fecc139de303e78c55c1b92603a12d3009a5ad2632d"
+
+[update]
+[update.modrinth]
+mod-id = "x0pG5ft0"
+version = "sFWFS6CK"

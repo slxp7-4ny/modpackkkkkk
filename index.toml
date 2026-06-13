@@ -29,6 +29,10 @@ file = "config/defaultoptions/options.txt"
 hash = "3cfc1747a5b5e043cc075f0e8796fd1e418ad9b3f0e5b8a19836b619c6dcb0a2"
 
 [[files]]
+file = "config/defaultoptions/servers.dat"
+hash = "e33d3f5206ab08d43647c730f56e24bf748e463892a25d5c9e4e84b03d309925"
+
+[[files]]
 file = "config/emotecraft.json"
 hash = "c43c98d480b79745ac90fa42231fe13710659f0811dac43588c63b175168f3de"
 

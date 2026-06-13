@@ -34,7 +34,7 @@ hash = "e33d3f5206ab08d43647c730f56e24bf748e463892a25d5c9e4e84b03d309925"
 
 [[files]]
 file = "config/emotecraft.json"
-hash = "c43c98d480b79745ac90fa42231fe13710659f0811dac43588c63b175168f3de"
+hash = "703dc3f36be5ffd51e366ad37cd29a87f28b29a9742948d2bc8c8948875320b0"
 
 [[files]]
 file = "config/emotecraft_emote_map.json"

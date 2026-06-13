@@ -93,6 +93,10 @@ file = "config/xaero/minimap/profiles/default.cfg"
 hash = "43d7b01a8710687554de4935be83bb6f412a0e1b74638c945d5f2eb67dfb20c5"
 
 [[files]]
+file = "essential/config.toml"
+hash = "30d3c572577bfcb4b77c9c924cac63735293f8a5824513970f07440684e45d0c"
+
+[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "f2a58a8b99423303ec092dca3169b39240a2a2776ee58cd2704c676fc3212065"
 metafile = true

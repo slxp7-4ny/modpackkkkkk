@@ -1,0 +1,25 @@
+filename = 'the_obsessed-1.5d-neoforge-1.21.1.jar'
+name = 'The Obsessed - Advanced Psychological Horror, Arachnid Stalker'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.5d'
+
+[download]
+hash = '443e8716ea1955a7336f958d15314ec8417e399317e431dc0e31b916c69ae29e19bcc1240b87cb0d4b5d745ea7a79f1271bc227b850e7d0317ab82abbef27064'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/e2UrUTKG/versions/ZtbzfUWs/the_obsessed-1.5d-neoforge-1.21.1.jar'
+
+[update.modrinth]
+mod-id = 'e2UrUTKG'
+version = 'ZtbzfUWs'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'k0RPP4IO'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '8BmcQJ2H'
+type = 'REQUIRED'

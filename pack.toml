@@ -1,0 +1,13 @@
+name = "modpackkkkkk"
+author = "undefined"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "22d253ad3cd4e40ebd3f02c531c39b1b01b14591ba614ba2208f2ee52e349ed9"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.233"

@@ -1,0 +1,21 @@
+filename = 'EW-NeoForge-1.21.1-1.0.0.jar'
+name = 'Exclusive Weapons, Armor and Tools'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.0.0'
+
+[download]
+hash = 'dc55bb6877da78c78b6741eb09b2caf58ef1971a1770d002423ad0406377fb83cfb4a238a784f07e49688365b7118bcfcf3715ed79f972763831f75a87551964'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/SMeShcIT/versions/GpxfPL6J/EW-NeoForge-1.21.1-1.0.0.jar'
+
+[update.modrinth]
+mod-id = 'SMeShcIT'
+version = 'GpxfPL6J'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'lFr5Bbfo'
+type = 'REQUIRED'

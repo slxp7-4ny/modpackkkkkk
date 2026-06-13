@@ -1,0 +1,13 @@
+name = "Lithostitched"
+filename = "lithostitched-1.7.10+beta3-neoforge-21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ee6a92eccf144f462f00a15c36bcd441c0b0e09f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8237649
+project-id = 936015

@@ -803,6 +803,11 @@ hash = "b3cd777890d4a98fb05cefbc47cda1db623c812a6cb5b94b09061b8cf7b84bfe"
 metafile = true
 
 [[files]]
+file = "mods/paxi.pw.toml"
+hash = "215d597764d5c5db89e700fc3495b72dc0a7f09c975de19dc8c580bde3469a5e"
+metafile = true
+
+[[files]]
 file = "mods/ping-wheel.pw.toml"
 hash = "bb893f7cdccf3ceddd63bb86aebd1a9960e68db10417933d54576bb737e04546"
 metafile = true

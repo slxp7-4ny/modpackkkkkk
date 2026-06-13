@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/NoChatReports/NCR-Encryption.json"
-hash = "fae0ac7b88a2b0bd89c1da26414a3c25797610b2c6cc768733664c0b65869666"
+hash = "c05018cb73cf2f8df1ff31307e34d7cb97b1644ab99808e268796e758a28df35"
 
 [[files]]
 file = "config/appleskin-client.toml"

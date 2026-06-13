@@ -1095,28 +1095,31 @@ hash = "8c8b0b51480caddd63ff459450a5811d9d7900c1c55796d3318b01060864b855"
 metafile = true
 
 [[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.8.1.zip"
-hash = "3f1cd389e717b2e62f58edff222059b9c60de71b14bb49b517eb58318ce35b15"
-
-[[files]]
 file = "shaderpacks/ComplementaryReimagined_r5.8.1.zip.txt"
 hash = "972640f81c90a17ce2b316bb0470a0594f251b688b86c7288bbcb408c884fc2d"
-
-[[files]]
-file = "shaderpacks/ComplementaryUnbound_r5.8.1.zip"
-hash = "bb89b1fc54687d4147a837fb2e3c3f7261a13bee51819761e9b6a91cb7915965"
 
 [[files]]
 file = "shaderpacks/ComplementaryUnbound_r5.8.1.zip.txt"
 hash = "2c6167b0d4f889f0eff03a514f6cc2f2092d345a1888cae97992ea29057424ab"
 
 [[files]]
-file = "shaderpacks/Spooklementary_v2.0.4.zip"
-hash = "34ae1317940876f42272e3fd8f9ec2be97b2cdfe2eb8aeaf7bf971304d1a168d"
-
-[[files]]
 file = "shaderpacks/Spooklementary_v2.0.4.zip.txt"
 hash = "c8b3f2b04d670bd2cc5345e000708870d027667690b1aecbb341243386124091"
+
+[[files]]
+file = "shaderpacks/complementary-reimagined.pw.toml"
+hash = "ea258ed5bf495d9017eeadc3cbf9bd67b1e672d843826bc077135548b5bc699e"
+metafile = true
+
+[[files]]
+file = "shaderpacks/complementary-unbound.pw.toml"
+hash = "608b87f75b2387a9fbd340cb18a8238bbbe5a0afc54202634b34f3000246b6e7"
+metafile = true
+
+[[files]]
+file = "shaderpacks/spooklementary.pw.toml"
+hash = "98d266a803313736dee1d42d73779e8f50841a3d17f69b06dc2096f4c1b44ebe"
+metafile = true
 
 [[files]]
 file = "update.bat"

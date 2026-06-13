@@ -73,6 +73,10 @@ file = "config/securitycraft-client.toml"
 hash = "76ece0728cb7f2c58c0fe1e306ae645a04dfc8dc6e66bd8bcc9e34fb1609a5f0"
 
 [[files]]
+file = "config/skinlayers.json"
+hash = "28fc59dff0ad68bb3e8def3958bdae54c57f001daadde8f0c221330884ba48ab"
+
+[[files]]
 file = "config/sodium-options.json"
 hash = "be40d116c4d2eff2e12e2ebd811a6c365955acbfed39361cef22cbd23e0dd74f"
 
@@ -1089,6 +1093,30 @@ metafile = true
 file = "mods/zeta.pw.toml"
 hash = "8c8b0b51480caddd63ff459450a5811d9d7900c1c55796d3318b01060864b855"
 metafile = true
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.8.1.zip"
+hash = "3f1cd389e717b2e62f58edff222059b9c60de71b14bb49b517eb58318ce35b15"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.8.1.zip.txt"
+hash = "972640f81c90a17ce2b316bb0470a0594f251b688b86c7288bbcb408c884fc2d"
+
+[[files]]
+file = "shaderpacks/ComplementaryUnbound_r5.8.1.zip"
+hash = "bb89b1fc54687d4147a837fb2e3c3f7261a13bee51819761e9b6a91cb7915965"
+
+[[files]]
+file = "shaderpacks/ComplementaryUnbound_r5.8.1.zip.txt"
+hash = "2c6167b0d4f889f0eff03a514f6cc2f2092d345a1888cae97992ea29057424ab"
+
+[[files]]
+file = "shaderpacks/Spooklementary_v2.0.4.zip"
+hash = "34ae1317940876f42272e3fd8f9ec2be97b2cdfe2eb8aeaf7bf971304d1a168d"
+
+[[files]]
+file = "shaderpacks/Spooklementary_v2.0.4.zip.txt"
+hash = "c8b3f2b04d670bd2cc5345e000708870d027667690b1aecbb341243386124091"
 
 [[files]]
 file = "update.bat"

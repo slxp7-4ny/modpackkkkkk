@@ -423,7 +423,7 @@ metafile = true
 
 [[files]]
 file = "mods/enchantment-descriptions.pw.toml"
-hash = "04cba5d12b1262ba3a1d89caae20c5e44a9010f050c549ff91f2661fb796dc7b"
+hash = "65b3488ff2104f458ab5fa16a7a274157f5d012d7013a9c24437ae9ca6c11d55"
 metafile = true
 
 [[files]]
@@ -672,7 +672,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithostitched.pw.toml"
-hash = "ec9d06ac76e4017bbfbae4ecd54702071b796b502ac8eabb682705ef71c8d671"
+hash = "9b1f56d25eee1666fea9dfff6e36ab7efce49469c2a2c491343f2dd6685aaed6"
 metafile = true
 
 [[files]]
@@ -767,7 +767,7 @@ metafile = true
 
 [[files]]
 file = "mods/occultism.pw.toml"
-hash = "d6a37271957528d8dd87fb82b7115241bf750e215b24e608ebb7da694db7179f"
+hash = "55812496190602fe57255de8af7acf4cf31bb6076c4165774537ca31f795be59"
 metafile = true
 
 [[files]]
@@ -950,9 +950,8 @@ hash = "6e99085a7c5c945d7747ab45a792b0b143631082c6eb8f78768a77eaa18612db"
 metafile = true
 
 [[files]]
-file = "mods/the-rolling-giant.pw.toml"
-hash = "721a577202ae9329a27b7a47b881c5155169c09eb667b4fd577cbd74bbb1e5a7"
-metafile = true
+file = "mods/the_rolling_giant-2.0.0-neoforge-1.21.1.jar"
+hash = "8a30bb02e774e14ba49dd2dda8cb9dfba2b7096452d6d5a81bf0f67867786d6c"
 
 [[files]]
 file = "mods/thesmiler-1.1.9-neoforge-1.21.1.jar"

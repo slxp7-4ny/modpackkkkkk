@@ -1823,7 +1823,7 @@ hash = "9141666ac0a27f75c2c5950609da477057ca3355b049196c3bebe9893efbd140"
 
 [[files]]
 file = "config/voicechat/voicechat-server.properties"
-hash = "40f592c14cf81000c6060e37b270cd128895bc2e33e78875b1f490f2cf3e6707"
+hash = "801ef17118d376274ac54982f16e106f4ee89ee912df479b36fd199ca4678966"
 
 [[files]]
 file = "config/waterframes-client.toml"

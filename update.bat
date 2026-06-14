@@ -11,7 +11,7 @@ java -jar packwiz-installer-bootstrap.jar https://raw.githubusercontent.com/slxp
 
 echo.
 echo ========================================
-echo          Modpack atualizado!
+echo          Modpack atualizado! test test
 echo ========================================
 echo.
 

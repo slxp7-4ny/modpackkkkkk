@@ -2390,11 +2390,6 @@ file = "mods/hexerei-0.5.0.3-fixed.jar"
 hash = "23f9414c1ec42bed9f878629da9bab4df3d48bd6cebb9d74a7cc84e69f8fe6c5"
 
 [[files]]
-file = "mods/him-herobrine.pw.toml"
-hash = "b3623fbf9869428f938782c9c2ef44e45eb5b6fca6e00a80b3d7a5e9b5ae137d"
-metafile = true
-
-[[files]]
 file = "mods/horror-elements-mod.pw.toml"
 hash = "b080e4f96103249bea8399a499c0aa1b20f79515e079575940a272c2a1ca0120"
 metafile = true

@@ -2957,7 +2957,3 @@ metafile = true
 file = "shaderpacks/spooklementary.pw.toml"
 hash = "98d266a803313736dee1d42d73779e8f50841a3d17f69b06dc2096f4c1b44ebe"
 metafile = true
-
-[[files]]
-file = "update.bat"
-hash = "ac9634c77e25d4566e4839328aa29d38a23854f0b53ae7c5ddca1d95934d790e"

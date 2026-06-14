@@ -1,5 +1,7 @@
 @echo off
 
+pushd "%~dp0minecraft"
+
 echo Limpando mods...
 if exist mods rmdir /s /q mods
 

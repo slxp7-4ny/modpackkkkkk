@@ -2082,7 +2082,7 @@ metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "f753f90b1ed81c10cf148cdd38a1257bfdc0d52a79343621cd4df599586461c6"
+hash = "3c58cdbfe61c7ecec7068fd066b4c375457631e370a64c032c9f8a8666d4f27b"
 metafile = true
 
 [[files]]
@@ -2177,7 +2177,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-aeronautics.pw.toml"
-hash = "11658263aac10d20e68725c1814fa8f59698eed809c8f7af41855f1b79256171"
+hash = "5fab8d2e412683dfd72f08cf6750e51b03cb43192e8eb783e962ba28d20978bc"
 metafile = true
 
 [[files]]
@@ -2431,7 +2431,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "bad7a016fed7f4a8416f8600de5f05e38a97acc8a35ed17f18e1b0e7fdcbf96f"
+hash = "db1c1e6382878b78e994dba1b9026935f8d1c5ca685c89d2437858e0a0dcab58"
 metafile = true
 
 [[files]]
@@ -2566,7 +2566,7 @@ metafile = true
 
 [[files]]
 file = "mods/moreculling.pw.toml"
-hash = "01f2961056c8eca97e9059049afc4f19a89372cdff9eabc65676bd0ca64c1a9e"
+hash = "4eaef45625336f16e9461e00e9e4f4ed789bcd25b4ca8e011d68564ddb7c8c3a"
 metafile = true
 
 [[files]]
@@ -2681,7 +2681,7 @@ metafile = true
 
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
-hash = "b7108d11b2aadb3b0f5beb05cfaaad7219f7ce145cb5ca72c4caa51641bed7cd"
+hash = "61d572ec6e241a8374db15e453074a7ae70485a0caf9082b9b39c608410f643a"
 metafile = true
 
 [[files]]
@@ -2696,7 +2696,7 @@ metafile = true
 
 [[files]]
 file = "mods/sable.pw.toml"
-hash = "5aea527dd671cc16b9d4dde1cec35dbbe1bbabc3a37ba62d537863daf2f8ef95"
+hash = "07c1d1a846572a60bf88dc54977d9a65d20f74c19209cb82e8d7dfe0d3cdfadf"
 metafile = true
 
 [[files]]
@@ -2740,12 +2740,12 @@ metafile = true
 
 [[files]]
 file = "mods/sodium-extra.pw.toml"
-hash = "cce101199ddfec8b871c859d289c3b6d5dbc8c568d30bd9d0f9b5b6709081d09"
+hash = "1aad262000bea80b345a973a19a626bfbcb65b2ba78843843649e740168d04fd"
 metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "e79139f362694836c402c4ca6cf7705b1c1bd5c219b32cb3b2ad8ff48b265a82"
+hash = "25324a8a9cdc663d3d1952191e873f87531011715de49673cbf7c1b0da0504d6"
 metafile = true
 
 [[files]]
@@ -2785,7 +2785,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "a22923d73b90c37940ea3831974ce6e7107f14349c1a6a8c07a3c64ff5ffb332"
+hash = "e4ced1c70be45fd8e734418769c36f8af66b62d46c5171e931b7195cd84de434"
 metafile = true
 
 [[files]]

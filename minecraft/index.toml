@@ -1302,7 +1302,7 @@ hash = "4d3264b58c502afaeca3f44e8d2db0843c54b8ba957afd21a2d450fe10dafefb"
 
 [[files]]
 file = "config/iris.properties"
-hash = "e89fff9d00388df1ca612e8a74039af954a5d8eafda23fc9f875b3b214a54d47"
+hash = "f07fe1765d91d1cc5ceb90a0e8dcdadfc964e556e6463cab3f59155d83fca185"
 
 [[files]]
 file = "config/irons_spellbooks-client.toml"

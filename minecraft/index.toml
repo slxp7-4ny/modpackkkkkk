@@ -2953,15 +2953,15 @@ metafile = true
 
 [[files]]
 file = "shaderpacks/ComplementaryReimagined_r5.8.1.zip.txt"
-hash = "972640f81c90a17ce2b316bb0470a0594f251b688b86c7288bbcb408c884fc2d"
+hash = "c9e001a38a48f45970b99d5228a3777cfbd09d20114e1c85386ea17110667c88"
 
 [[files]]
 file = "shaderpacks/ComplementaryUnbound_r5.8.1.zip.txt"
-hash = "2c6167b0d4f889f0eff03a514f6cc2f2092d345a1888cae97992ea29057424ab"
+hash = "974fd51493637b1bf6c38c7c29e4c0d4c1bd28b3eda33168e21cb75eed25188a"
 
 [[files]]
 file = "shaderpacks/Spooklementary_v2.0.4.zip.txt"
-hash = "c8b3f2b04d670bd2cc5345e000708870d027667690b1aecbb341243386124091"
+hash = "db098f35fa562aadf50a8e4903116cb5b8540b6f1eb7932a52facfa197ef0067"
 
 [[files]]
 file = "shaderpacks/complementary-reimagined.pw.toml"

@@ -1939,7 +1939,7 @@ hash = "d985bfc68899c91aa642736400472f6ab876dedaaef4b8c31f38b52d48de633d"
 
 [[files]]
 file = "essential/config.toml"
-hash = "30d3c572577bfcb4b77c9c924cac63735293f8a5824513970f07440684e45d0c"
+hash = "0d4f6d3915d1ac4499dd7930e12315b55b33fd9b168acf1717073322aacafb36"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
@@ -2292,7 +2292,7 @@ metafile = true
 
 [[files]]
 file = "mods/essential.pw.toml"
-hash = "a7f2473bcd7ff271bb30721f02d4af913ea0d6f31f61a6b5c4046bf873752143"
+hash = "6078b44a4686b8c0a4110ac10a9546e37743d84a3f68382f8bf9e2bb64d0bb62"
 metafile = true
 
 [[files]]

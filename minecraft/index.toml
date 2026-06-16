@@ -2007,7 +2007,7 @@ metafile = true
 
 [[files]]
 file = "mods/balm.pw.toml"
-hash = "a0f52f47c27d6ccdbee89735e459ff955ba09cdf499ef42bc901f8426be75253"
+hash = "3595ba816c9ef014350d0072b90715d99cda633c0b3c8aee7a64ce3402ade5de"
 metafile = true
 
 [[files]]
@@ -2037,7 +2037,7 @@ metafile = true
 
 [[files]]
 file = "mods/biolith.pw.toml"
-hash = "f79d87a72026b5aef024b44cf5eedd9edb568a19f81403d20681eeb3364c3647"
+hash = "cc68949c02bcb1ea4ad83d7a8f9c7b039b7ccb6af8ac97a8b9ea62efaac7a484"
 metafile = true
 
 [[files]]
@@ -2347,7 +2347,7 @@ metafile = true
 
 [[files]]
 file = "mods/flerovium.pw.toml"
-hash = "d62d52cd1d655e4f63b408768b2852029639dfddd9cd245982dc9edf03e01722"
+hash = "7ba48f4f7678f04ee2a2e5feb65c7bdf703a882486514686732e334a8c8dba5a"
 metafile = true
 
 [[files]]
@@ -2446,12 +2446,12 @@ metafile = true
 
 [[files]]
 file = "mods/irons-lib.pw.toml"
-hash = "3373a023ad95ccae490891283ba8918e8fc244355017aa16984e4aa5f07d57ae"
+hash = "eb9dd11b787766f0cf68fc83cc1ae97e7bf52be41d3f29ba77062944f774865f"
 metafile = true
 
 [[files]]
 file = "mods/irons-spells-n-spellbooks.pw.toml"
-hash = "2160673b7140b47f2aec339a34935ebac88366a307daf410f3a400ea81ac23ca"
+hash = "d21467f13f2bff35f6e7c5172f9820e55499c49bfa1ebd45f587e890f9c4b726"
 metafile = true
 
 [[files]]
@@ -2516,7 +2516,7 @@ metafile = true
 
 [[files]]
 file = "mods/lambdynamiclights.pw.toml"
-hash = "08b41c3cda0039d23dda6ab61dae4ce947f66e7d87595e798a539867fcb25690"
+hash = "e2743788609a0cd12f6fa71181525116c2033d17fc050ea2cafb07e2547c742a"
 metafile = true
 
 [[files]]
@@ -2531,7 +2531,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithostitched.pw.toml"
-hash = "9b1f56d25eee1666fea9dfff6e36ab7efce49469c2a2c491343f2dd6685aaed6"
+hash = "a5171f661eb50b84152c265c1458698394b484225c75db459016738f761beb08"
 metafile = true
 
 [[files]]
@@ -2556,7 +2556,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "06d224a6c754682b8f777f8d2dca37121e0056f6a6474317fed0ad5352a41bad"
+hash = "983d6ab9d9a7d40031f1789f5ae018cccb889832ac8ce741df60a9d8e5f42817"
 metafile = true
 
 [[files]]
@@ -2626,7 +2626,7 @@ metafile = true
 
 [[files]]
 file = "mods/occultism.pw.toml"
-hash = "3fb41fa74df706b703429b6836c331a10970a91128759849ed1fb883c3fb70b9"
+hash = "a5b80de18ecbe994fb4381846ddf091264e5d5daba3dc982c13bfc12b98b256f"
 metafile = true
 
 [[files]]
@@ -2711,7 +2711,7 @@ metafile = true
 
 [[files]]
 file = "mods/sable.pw.toml"
-hash = "07c1d1a846572a60bf88dc54977d9a65d20f74c19209cb82e8d7dfe0d3cdfadf"
+hash = "2b4fb5e3d16d30b59be78c4efc3dd7b7c3066e6486ef0c99fb32af510ffc308a"
 metafile = true
 
 [[files]]
@@ -2815,7 +2815,7 @@ metafile = true
 
 [[files]]
 file = "mods/the-knocker.pw.toml"
-hash = "feec77eb9bfb7f65f95a860d5bf1ef2d48b8ae4c40df5873e294d18e20dda686"
+hash = "a96d14bcc58f21a1b1af5e0147543ea224342f7e636106c1a73c0818fd69eeb6"
 metafile = true
 
 [[files]]

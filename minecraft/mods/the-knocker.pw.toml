@@ -1,18 +1,13 @@
-filename = 'the_knocker-1.5.1-neoforge-1.21.1.jar'
-name = 'The Knocker'
-side = 'both'
-x-prismlauncher-dependencies = []
-x-prismlauncher-loaders = [ 'neoforge' ]
-x-prismlauncher-mc-versions = [ '1.21.1' ]
-x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = '1.5.1'
+name = "The Knocker"
+filename = "the_knocker-1.5.2-neoforge-1.21.1.jar"
+side = "both"
 
 [download]
-hash = 'd091aec67ff1f8e88d06b61f1b8cbbe54d0aa68b05b2688a744dd7432a28491ace4e3fc1713c1d49ba50e8007fb962d2d5eb683afc119086afa62e2c9ccfb178'
-hash-format = 'sha512'
-mode = 'url'
-url = 'https://cdn.modrinth.com/data/hTju2zcV/versions/oIts6EVv/the_knocker-1.5.1-neoforge-1.21.1.jar'
+url = "https://cdn.modrinth.com/data/hTju2zcV/versions/JnhR7dWq/the_knocker-1.5.2-neoforge-1.21.1.jar"
+hash-format = "sha512"
+hash = "074df56e2158a39e9c5e1ae91f5809e50495ec8864e74b0f15a834b82c0bcf294da4b689f8fa1f5378a92c85ad5d3bead52aa30359c17a12c26b77ad806252bd"
 
+[update]
 [update.modrinth]
-mod-id = 'hTju2zcV'
-version = 'oIts6EVv'
+mod-id = "hTju2zcV"
+version = "JnhR7dWq"

@@ -1,0 +1,13 @@
+name = "The Rolling Giant [Horror, not a Dweller] [The Oldest View]"
+filename = "the_rolling_giant-2.0.1-neoforge-1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "2a0bb8c7662d06788a592f1ec67b794e010a135c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8210981
+project-id = 1001347

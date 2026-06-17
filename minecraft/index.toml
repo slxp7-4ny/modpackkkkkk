@@ -1987,7 +1987,7 @@ metafile = true
 
 [[files]]
 file = "mods/ars-nouveau.pw.toml"
-hash = "fa1ebdcbdaef25df60fb1d092b7a459a1f4cfb46430ea98cf569b993ef7609be"
+hash = "cdd14e71c41b125f57f01bfdccc750e9397cfd8b4a032f549e6607c29ce94e72"
 metafile = true
 
 [[files]]
@@ -2217,7 +2217,7 @@ metafile = true
 
 [[files]]
 file = "mods/cupboard.pw.toml"
-hash = "4d93d75137d2bb19a1a1f68e494a401dd7e24edff1e5a06f2c17330d8e3431af"
+hash = "0eaf99546b07ea456f4b8f198b646a06f5b9446fb735494f034871f70d36c569"
 metafile = true
 
 [[files]]
@@ -2266,6 +2266,11 @@ hash = "47417e1bdc5b01898d2ee27bd95ddb123066ce60051d4f7a562a88c36b8b60b4"
 metafile = true
 
 [[files]]
+file = "mods/emi.pw.toml"
+hash = "67bb77eae0b644960be3b1074178ceb5d54facbb42f326981b9d94625238a54a"
+metafile = true
+
+[[files]]
 file = "mods/emotecraft.pw.toml"
 hash = "f1a7b2e607ecf527e3844b68af37c5409e3fe0608ed0021fb580a7ddcda81418"
 metafile = true
@@ -2287,7 +2292,7 @@ metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "445fbf1711f7027f400a12431e68e6cf2be5fb13a6a91fdb9c6745367f2fe5da"
+hash = "c96213eaba8eca9be5e6339efe1da67a74fb6a69f822f6e2e3d7fc316669af56"
 metafile = true
 
 [[files]]
@@ -2465,8 +2470,8 @@ hash = "f86a10950c4557243ef9235f121a35306df5ff9238cf2191071991ea38392b9c"
 metafile = true
 
 [[files]]
-file = "mods/jei.pw.toml"
-hash = "c28e9a975de4d4166c50191746edf8e65b5112014485e70274e3c577e0b5730a"
+file = "mods/jer-integration.pw.toml"
+hash = "5e8d3235bfe97605001d432a98bf85e3c68648681fb87322cc75b57f9854e209"
 metafile = true
 
 [[files]]
@@ -2566,7 +2571,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "e34edfcd956a41a2798729558e6827307168e4f4a4b2312ae30a1a9bd301cb27"
+hash = "ebca20d77b200ff48f7e431ccffac2c2db6844ef4f9304452a0201f5c0307008"
 metafile = true
 
 [[files]]
@@ -2711,7 +2716,7 @@ metafile = true
 
 [[files]]
 file = "mods/sable.pw.toml"
-hash = "2b4fb5e3d16d30b59be78c4efc3dd7b7c3066e6486ef0c99fb32af510ffc308a"
+hash = "674aaf0dc67f808f0054cfc7bbe041d6725fcbbe97644a85ffbd946a22d35666"
 metafile = true
 
 [[files]]
@@ -2819,12 +2824,18 @@ hash = "a96d14bcc58f21a1b1af5e0147543ea224342f7e636106c1a73c0818fd69eeb6"
 metafile = true
 
 [[files]]
-file = "mods/the_rolling_giant-2.0.0-neoforge-1.21.1.jar"
-hash = "8a30bb02e774e14ba49dd2dda8cb9dfba2b7096452d6d5a81bf0f67867786d6c"
+file = "mods/the-rolling-giant.pw.toml"
+hash = "c3c40b15c37c8ee0c2f57820e5af739f0b8dcedab01d385206e7be54e52faccb"
+metafile = true
 
 [[files]]
 file = "mods/thesmiler-1.1.9-neoforge-1.21.1.jar"
 hash = "9ae225e702a0426e4488164cb7097b753ccef3f9967191684f8153c9e067ecd6"
+
+[[files]]
+file = "mods/tmrv.pw.toml"
+hash = "b28cc434de3932e66c46ed31a8e28d5ea1e28ad1b77f0a9bfa863cfc71c51071"
+metafile = true
 
 [[files]]
 file = "mods/torchmaster.pw.toml"

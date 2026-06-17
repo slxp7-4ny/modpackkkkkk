@@ -1278,7 +1278,7 @@ hash = "0cc639f1ce8ab5e63f754ab41be3ab09398fd149de6d0b5edc476034e3ed8b06"
 
 [[files]]
 file = "config/fastbench.cfg"
-hash = "986fed050e585e87a7cc42fea49d0699b340c1c22bff867bdfb32dd1552851e0"
+hash = "41e28577931484abf560c87f95187dd5cef20e460b3ac6ace553f1d139d65889"
 
 [[files]]
 file = "config/fastleafdecay-server.toml"

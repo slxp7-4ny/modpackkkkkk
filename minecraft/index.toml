@@ -1650,18 +1650,6 @@ file = "config/servercore/optimizations.yml"
 hash = "63ba7034fdf1f45f1b40798d3212f8d838f7c299fbe5795075fbafe1e2265192"
 
 [[files]]
-file = "config/simplebackups-common-experimental.toml"
-hash = "4e7ff94966f5694fc27eefa40b9ac44da666b7c335b465a2255b4b9ecdd0e15b"
-
-[[files]]
-file = "config/simplebackups-common.toml"
-hash = "2cd9729d16d07b871484f85576778c02d48827726139882b76d2cb3d25c00d49"
-
-[[files]]
-file = "config/simplebackups-server.toml"
-hash = "fb5ea0772bce767c93b7024027f87ad4461c46422f323cf8530fb09e4d32b174"
-
-[[files]]
 file = "config/simplehats.json"
 hash = "ef023c7f0d6c273b463f595c62145afab8f3b65b43b0b3304e3da5e9355cb5dc"
 

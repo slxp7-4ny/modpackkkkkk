@@ -2620,11 +2620,6 @@ hash = "10a6d3b51f3b9e7d636192c0d8ba8500bc594142752f9cfbfcf41be925703188"
 metafile = true
 
 [[files]]
-file = "mods/notenoughrecipebook.pw.toml"
-hash = "8dc52c2517aa437dec2e4edf90e90b96df5d2d486083f1ccb8ed753e1ac2ac8d"
-metafile = true
-
-[[files]]
 file = "mods/obsessed.pw.toml"
 hash = "d9f04b91efaa461ddde79edcdf820bbf281851cd482e51add1af235b207e7aa9"
 metafile = true

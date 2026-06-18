@@ -1665,10 +1665,6 @@ file = "config/fastbench.cfg"
 hash = "41e28577931484abf560c87f95187dd5cef20e460b3ac6ace553f1d139d65889"
 
 [[files]]
-file = "config/fastleafdecay-server.toml"
-hash = "94e480adf5c3226e70f40c31eb8f89c601b5006c25edf37ed69b3bc390774c7f"
-
-[[files]]
 file = "config/fastsuite.cfg"
 hash = "44198ad591572d87a9f71b0b636229d91508a8c971f9dca907bed3c6d6754193"
 
@@ -2136,6 +2132,14 @@ hash = "37ce5a56214bb9ca267ea3a4bdeee69da309afbbd6f74866efdd6e987a709ce3"
 [[files]]
 file = "config/travelersbackpack-server.toml"
 hash = "5a76437c5de30a4627649b628c1729ba34bfac796af5a0b9d16af3c218e00161"
+
+[[files]]
+file = "config/treechop-client.toml"
+hash = "42f5bff5e7faf2a3d272a377154f1ccb4c0fe8bd727a6b8652ba87069d57b03e"
+
+[[files]]
+file = "config/treechop-common.toml"
+hash = "bef744b71c2f8a394ad3190d8805c01403f3edde548a3018905e0f059e2cfa01"
 
 [[files]]
 file = "config/trender.json"
@@ -2664,11 +2668,6 @@ hash = "62d46e2a2bba2d35ca2b76893cb62aa4d8f92182c340c33fe7833e8041fb94f6"
 metafile = true
 
 [[files]]
-file = "mods/fast-leaf-decay.pw.toml"
-hash = "e5c471aaab9047178ad25e91d28240fefd7b6e48d52af4274bc53239eb1da8c6"
-metafile = true
-
-[[files]]
 file = "mods/fastfurnace.pw.toml"
 hash = "4f7c443c70a28284bfb40e613c835167c9c71f2db257714275041f16e280b6d9"
 metafile = true
@@ -3163,6 +3162,11 @@ metafile = true
 [[files]]
 file = "mods/travelersbackpack.pw.toml"
 hash = "2bf91b52f7468cf7019bfaf50b8da0dabcc31eb9ab9915f387799aa335d7358d"
+metafile = true
+
+[[files]]
+file = "mods/treechop.pw.toml"
+hash = "da1c1cf28e8d5ffe377998d29d59eae29a2020f2de7a0aea7f7253acdc695cfd"
 metafile = true
 
 [[files]]

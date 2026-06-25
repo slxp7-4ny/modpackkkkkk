@@ -2291,7 +2291,7 @@ hash = "d985bfc68899c91aa642736400472f6ab876dedaaef4b8c31f38b52d48de633d"
 
 [[files]]
 file = "essential/config.toml"
-hash = "0d4f6d3915d1ac4499dd7930e12315b55b33fd9b168acf1717073322aacafb36"
+hash = "7b5b7ed820169373ade90a12b3890d380b263e9fbfdf27077c929f96220dd7ee"
 
 [[files]]
 file = "mods/SSCA-v1-1.21.1.jar"

@@ -54,7 +54,7 @@
 		update_notifications = false
 		screenshot_toast_duration = 1
 		message_sound = true
-		online_friend_alert = true
+		online_friend_alert = false
 		message_notifications = true
 		group_message_notifications = true
 

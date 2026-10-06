@@ -1,7 +1,0 @@
-["Spawntime config"]
-	#A random value is chosen between the minimum and maximum spawn times. These values are measured in ticks, so specify the number of ticks for both the lower and upper bounds. Make sure the maximum time is not less than the minimum; otherwise, the mod may experience bugs or even crash the game.
-	minspawntime = 2400.0
-	#A random value is chosen between the minimum and maximum spawn times. These values are measured in ticks, so specify the number of ticks for both the lower and upper bounds. Make sure the maximum time is not less than the minimum; otherwise, the mod may experience bugs or even crash the game.
-	maxspawntime = 8800.0
-	#If you want a higher chance of the entity spawning, set the spawn chance to a lower number. If you want a lower chance of the entity spawning, set the spawn chance to a higher number. 
-	spawnchance = 0.5
